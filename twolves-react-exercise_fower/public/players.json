@@ -1,0 +1,90 @@
+[
+    {
+        "id":1,
+        "name":{
+            "first": "Patrick",
+            "last": "Beverly"
+        },
+        "stats": {
+            "gamesPlayed":58,
+            "points": 9.2,
+            "rebounds": 4.1,
+            "assists": 4.6
+        },
+        "vitals":{
+            "height": "6\\'1\"",
+            "weight": 180,
+            "age": 33,
+            "yearsPro": 9,
+            "country": "USA",
+            "jerseynumber": 22,
+            "position": "Guard"
+        }
+    },
+    {
+        "id":2,
+        "name":{
+            "first": "Anthony",
+            "last": "Edwards"
+        },
+        "stats": {
+            "gamesPlayed":72,
+            "points": 21.3,
+            "rebounds": 4.8,
+            "assists": 3.8
+        },
+        "vitals":{
+            "height": "6\\'4\"",
+            "weight": 225,
+            "age": 20,
+            "yearsPro": 1,
+            "country": "USA",
+            "jerseynumber": 1,
+            "position": "Guard"
+        }
+    },
+    {
+        "id":3,
+        "name":{
+            "first": "Jaden",
+            "last": "McDaniels"
+        },
+        "stats": {
+            "gamesPlayed":70,
+            "points": 9.2,
+            "rebounds": 4.2,
+            "assists": 1.1
+        },
+        "vitals":{
+            "height": "6\\'9\"",
+            "weight": 185,
+            "age": 21,
+            "yearsPro": 1,
+            "country": "USA",
+            "jerseynumber": 3,
+            "position": "Forward"
+        }
+    },
+    {
+        "id":4,
+        "name":{
+            "first": "Jaylen",
+            "last": "Nowell"
+        },
+        "stats": {
+            "gamesPlayed":62,
+            "points": 8.5,
+            "rebounds": 2,
+            "assists": 2.1
+        },
+        "vitals":{
+            "height": "6\\'4\"",
+            "weight": 201,
+            "age": 22,
+            "yearsPro": 2,
+            "country": "USA",
+            "jerseynumber": 4,
+            "position": "Guard"
+        }
+    }
+]
