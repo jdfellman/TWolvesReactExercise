@@ -1,2 +1,2 @@
 # TWolvesReactExercise
-Learning React by building a Roster UI for the MN timberwolves
+Learning React and Fower by building a Roster UI for the MN timberwolves
