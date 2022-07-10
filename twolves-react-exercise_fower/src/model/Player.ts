@@ -1,7 +1,7 @@
 export interface Player {
     id: number;
     name: {
-        first?: string; //optional in case we ever get a player like Nene again
+        first: string; //optional in case we ever get a player like Nene again
         last: string;
     };
     stats: {

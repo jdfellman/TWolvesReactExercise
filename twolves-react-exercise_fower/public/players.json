@@ -17,7 +17,7 @@
             "age": 33,
             "yearsPro": 9,
             "country": "USA",
-            "jerseynumber": 22,
+            "jerseyNumber": 22,
             "position": "Guard"
         }
     },
@@ -39,7 +39,7 @@
             "age": 20,
             "yearsPro": 1,
             "country": "USA",
-            "jerseynumber": 1,
+            "jerseyNumber": 1,
             "position": "Guard"
         }
     },
@@ -61,7 +61,7 @@
             "age": 21,
             "yearsPro": 1,
             "country": "USA",
-            "jerseynumber": 3,
+            "jerseyNumber": 3,
             "position": "Forward"
         }
     },
@@ -83,8 +83,30 @@
             "age": 22,
             "yearsPro": 2,
             "country": "USA",
-            "jerseynumber": 4,
+            "jerseyNumber": 4,
             "position": "Guard"
+        }
+    },
+    {
+        "id":5,
+        "name":{
+            "first": "Karl-Anthony",
+            "last": "Towns"
+        },
+        "stats": {
+            "gamesPlayed":74,
+            "points": 24.6,
+            "rebounds": 9.8,
+            "assists": 3.6
+        },
+        "vitals":{
+            "height": "6\\'11\"",
+            "weight": 248,
+            "age": 26,
+            "yearsPro": 7,
+            "country": "USA",
+            "jerseyNumber": 32,
+            "position": "Center-Forward"
         }
     }
 ]
